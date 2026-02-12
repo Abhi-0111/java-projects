@@ -1,4 +1,5 @@
-# java-console-calculator-
+# java-projects
+
 A command line interface(CLI) calculator application built using java.
 # Simple Java Console Calculator
 
