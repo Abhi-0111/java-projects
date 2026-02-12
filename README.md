@@ -23,3 +23,37 @@ This project serves as a practical implementation of basic Java programming conc
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/java-calculator.git](https://github.com/your-username/java-calculator.git)
+
+## 🏧 ATM Simulation in Java
+
+A console-based ATM simulation built using core Java and Object-Oriented Programming (OOP) principles.
+This project demonstrates secure authentication, balance management, and menu-driven user interaction.
+
+📌 Features
+
+🔐 PIN-based authentication
+
+💰 Check account balance
+
+➕ Deposit money
+
+➖ Withdraw money with validation
+
+🔁 Continuous menu until exit
+
+🧱 Proper encapsulation and input validation
+
+🛠️ Technologies Used
+
+Java (Core Java)
+
+Scanner for user input
+
+Object-Oriented Programming concepts
+
+# 🔐 Default PIN
+PIN: 1234
+
+
+⚠️ Note: This PIN is hardcoded for learning purposes only.
+In real systems, PINs should be encrypted and securely stored.
