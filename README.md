@@ -24,7 +24,7 @@ This project serves as a practical implementation of basic Java programming conc
    ```bash
    git clone [https://github.com/your-username/java-calculator.git](https://github.com/your-username/java-calculator.git)
 
-## 🏧 ATM Simulation in Java
+# 🏧 ATM Simulation in Java
 
 A console-based ATM simulation built using core Java and Object-Oriented Programming (OOP) principles.
 This project demonstrates secure authentication, balance management, and menu-driven user interaction.
@@ -51,31 +51,31 @@ Scanner for user input
 
 Object-Oriented Programming concepts
 
-# 🔐 Default PIN
+## 🔐 Default PIN
 PIN: 1234
 
 
 ⚠️ Note: This PIN is hardcoded for learning purposes only.
 In real systems, PINs should be encrypted and securely stored.
 
-## 📝 Java Swing Notepad
+# 📝 Java Swing Notepad
 
 A simple desktop text editor built using **Java Swing**, inspired by Windows Notepad.
 
-# ✨ Features
+## ✨ Features
 - Create new text files
 - Open existing `.txt` files
 - Save text to file
 - Scrollable text area
 - Keyboard shortcuts (Ctrl+N, Ctrl+O, Ctrl+S, Ctrl+Q)
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 - Java
 - Swing (GUI)
 - AWT
 - File I/O
 
-# 🚀 How to Run
+## 🚀 How to Run
 ```bash
 javac Notepad.java
 java Notepad
