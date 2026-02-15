@@ -57,3 +57,26 @@ PIN: 1234
 
 ⚠️ Note: This PIN is hardcoded for learning purposes only.
 In real systems, PINs should be encrypted and securely stored.
+
+## 📝 Java Swing Notepad
+
+A simple desktop text editor built using **Java Swing**, inspired by Windows Notepad.
+
+# ✨ Features
+- Create new text files
+- Open existing `.txt` files
+- Save text to file
+- Scrollable text area
+- Keyboard shortcuts (Ctrl+N, Ctrl+O, Ctrl+S, Ctrl+Q)
+
+# 🛠 Tech Stack
+- Java
+- Swing (GUI)
+- AWT
+- File I/O
+
+# 🚀 How to Run
+```bash
+javac Notepad.java
+java Notepad
+
